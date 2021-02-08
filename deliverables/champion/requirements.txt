@@ -64,7 +64,7 @@ gunicorn==20.0.4
 h5py @ file:///home/conda/feedstock_root/build_artifacts/h5py_1595110170499/work
 hdfs==2.5.8
 HeapDict==1.0.1
-httplib2==0.17.4
+httplib2==0.19.0
 idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1593328102638/work
 imagecodecs @ file:///home/conda/feedstock_root/build_artifacts/imagecodecs_1593295474952/work
 imageio @ file:///home/conda/feedstock_root/build_artifacts/imageio_1594044661732/work
