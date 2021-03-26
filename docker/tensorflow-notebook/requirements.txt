@@ -12,5 +12,5 @@ tensorflow-probability==0.11.0
 tensorflow-serving-api==2.3.0
 tensorflow-transform==0.23.0
 mlflow==1.11.0
-pyyaml==5.3.1
+pyyaml==5.4
 sasctl==1.5.3
